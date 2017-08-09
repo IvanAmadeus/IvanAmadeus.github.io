@@ -1,0 +1,12 @@
+body{
+	background-color:#efe4ac;
+	background-position: center;
+	background-size: cover;
+	height: 200%;
+	margin:0;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+h1{
+	color: #ffffff;
+}
